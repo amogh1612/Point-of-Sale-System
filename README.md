@@ -3,4 +3,4 @@ This is a Point of Sale System application developed entirely in Java. It utiliz
 
 The point of sale system has 4 main areas, a staff management view, customer management view, a product panel view, and a shopping view. To run application run the "Runner.java".
 
-
+Walkthrough on YouTube: https://youtu.be/Y7vQ12lT1vc
